@@ -1,0 +1,14 @@
+layout_spectrum: 0.4230864089913666
+typography_spectrum: 0.2843736978247762
+color:
+  brandStrength: 0.1775590495672077
+  lightness: 0.3276348456274718
+  saturation: 0.06376778613775969
+  rhythmicContrast: 0.7997625160496682
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: no2
