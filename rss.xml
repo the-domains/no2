@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[no2]]></title>
+        <description><![CDATA[no2]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Aug 2016 21:32:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Free Yourself: Hike Solo]]></title>
+            <description><![CDATA[<article><h1>Free Yourself: Hike Solo</h1><p>What is a girl (or guy) to do when everyone else is too busy to hike when you want to hit the trail? The Internet, my friends and my family have all scolded me for packing my day pack and trekking ou.</p><img src="https://images.theoutbound.com/uploads/1471121450735/a921byiro54k4j28/d2eb63780db7b52e1650a052c42aec07"></article>]]></description>
+            <link>https://www.theoutbound.com/amber-locke/free-yourself-hike-solo</link>
+            <guid isPermaLink="false">e9337580-b77a-4934-a685-4e93541e4a33</guid>
+            <pubDate>Fri, 19 Aug 2016 21:30:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
